@@ -641,3 +641,4 @@ async function addMoreRestaurants() {
 }
 
 addMoreRestaurants();
+

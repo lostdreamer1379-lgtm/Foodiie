@@ -40,6 +40,8 @@ const Header = () => {
               path="/eats/stores/search/:keyword"
               element={<Search />}
             />
+            <Route path="*" element={null}
+            />
           </Routes>
         </div>
 
